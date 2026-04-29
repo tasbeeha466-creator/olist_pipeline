@@ -1,0 +1,5 @@
+﻿venv310/
+pycache/
+checkpoints/
+lake/
+logs/

@@ -1,0 +1,8 @@
+kaggle
+kafka-python
+pyspark==3.3.0
+pandas
+streamlit
+plotly
+pyarrow
+findspark
